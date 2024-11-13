@@ -1,0 +1,23 @@
+﻿# Development
+## Systems Design and Development
+### Crafting reliable, scalable, mission-aligned enterprise systems.
+
+# Integration
+## Seamless System Integration
+### Building unified systems that ensure smooth, efficient communication.
+
+# Systems Admin
+## IT Systems Administration
+### Expert administration for seamless, proactive IT system management.
+
+# Mobile Dev
+## Mobile Application Development
+### Custom mobile apps enhancing collaboration and situational awareness.
+
+# Automation
+## System Automation
+### Streamlining processes to boost efficiency and reduce errors.
+
+# Analytics
+## Data Analytics, Dynamic Integration, and Reporting
+### Empowering data-driven decisions through comprehensive analytics integration.
